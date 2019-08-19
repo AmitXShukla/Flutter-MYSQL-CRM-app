@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "FLUTTER_CRM_APP",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "test"
+  },
+  "author": "Amit Shukla",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4",
+    "password-hash-and-salt": "^0.1.4"
+  }
+}
