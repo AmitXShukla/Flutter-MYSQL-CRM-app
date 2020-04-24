@@ -1,3 +1,4 @@
+# Please give a Star * to this repository if you like this project.
 # Flutter-MYSQL-CRM-app
 Flutter MYSQL CRM app - Free download with complete source code for iOS, Android, web
 # Do NOT Clone yet, this repository is work in progress and due 1.9 upgrade.
