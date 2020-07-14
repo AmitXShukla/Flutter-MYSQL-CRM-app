@@ -1,4 +1,11 @@
-# Please give a Star * to this repository if you like this project.
+```diff
+- If you like this project, please consider giving it a star (*) and follow me at below links.
+```
+[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/AmitShukla_AI)
+[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/AmitXShukla)
+[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Amit_Shukla)
+[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
+
 # Flutter-MYSQL-CRM-app
 Flutter MYSQL CRM app - Free download with complete source code for iOS, Android, web
 # Do NOT Clone yet, this repository is work in progress and due 1.9 upgrade.
